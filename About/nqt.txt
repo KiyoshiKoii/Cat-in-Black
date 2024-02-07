@@ -1,3 +1,4 @@
-Nguyễn Quang Thái hay còn được mọi người gọi với tên Thía.
-Sơ lược về bản thân thì mình là tân sinh viên khoa CNTT trường ĐH KHTN, ĐHQGTPHCM. Hiện tại thì mình có niềm sở thích nho nhỏ với việc code web và mình thì chỉ là một fresher trong ngành này thôi. Do đó, Cat-in-Black làm project đầu tiên về code web của mình. Mình hy vọng mình sẽ học thêm được các kĩ năng và thành thạo các chứng năng cơ bản của việc code web.
-Về dự án: Cat-in-Black sẽ là một trang web bán hàng nho nhỏ về các đồ dùng cho điệp viên và với logo sẽ là chú mèo nhỏ vừa ngầu vừa dễ thương.
+Name: Nguyen Quang Thai
+Birth: 2005
+University: HCMUS
+Hobby: LOL, Book, Music
