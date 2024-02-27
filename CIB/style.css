@@ -4,6 +4,19 @@
   margin-left: 50px;
   margin-right: 50px;
 }
+
+.product_item .flag {
+  /* height: fit-content;
+  width: fit-content; */
+  position: absolute;
+  /* top: 0;
+  left: 0; */
+  background-color: rgb(246, 146, 203);
+  font-family: cursive;
+  padding: 2px 5px;
+  font-size: 10px;
+  /* text-align: center;*/
+}
 .row {
   display: flex;
   /* flex-direction: row; */
